@@ -27,7 +27,8 @@ The dashboard provides KPIs, trend analysis, regional comparisons, and profitabi
 
 > **Sales Performance Dashboard**
 
-![Dashboard Preview](Screenshot%20(1).png)
+Dashboard_Screenshot.png
+
 
 ---
 
