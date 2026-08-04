@@ -130,6 +130,20 @@ This project demonstrates skills in:
 - Business Intelligence
 - Data Storytelling
 
+ ## Key Insights
+
+- The dashboard processed **10K orders**, generating **14.91M in revenue** and **5.24M in total profit**, with an overall **profit margin of 35%**.
+
+- Monthly revenue fluctuates throughout the year, with noticeable peaks around **August–September** and a recovery towards **December**, indicating seasonal demand patterns.
+
+- The **West region** shows the weakest Year-over-Year (YoY) growth, while the **Central region** demonstrates comparatively stronger performance.
+
+- Although most orders are successfully delivered, the presence of **returned, cancelled, and pending orders** suggests opportunities to improve order fulfillment and customer satisfaction.
+
+- The dashboard compares **profit margins across product categories and regions**, helping identify high-performing categories and areas that need improvement.
+
+- The **Actual vs Target Revenue** KPI indicates that revenue is currently below the target, highlighting the need for strategies to close the performance gap.
+
  Author
 
 **Sanjana**
